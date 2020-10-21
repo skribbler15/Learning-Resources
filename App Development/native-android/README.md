@@ -31,5 +31,8 @@
 - [GameMaker: Studio](https://www.yoyogames.com/gamemaker) - Development tool for games
 - [Android Development(Kotlin) for Beginners](https://developer.android.com/courses/android-basics-kotlin/course) - In this five-unit course, you learn the basics of building Android apps with the Kotlin programming language and develop a collection of simple apps to start your journey as an Android developer.
 - Android Development Course for Beginners in Java, 5 unit course made by  engineers at google and udacity -
-[Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
-[User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+- [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
+- [User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+- [Multi-Screen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+- [Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+- [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
